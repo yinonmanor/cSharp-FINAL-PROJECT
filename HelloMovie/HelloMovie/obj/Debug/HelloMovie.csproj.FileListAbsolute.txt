@@ -1,0 +1,15 @@
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\HelloMovie.exe.config
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\HelloMovie.exe
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\HelloMovie.pdb
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MoviesDB.dll
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MoviesDB.pdb
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\obj\Debug\HelloMovie.csprojResolveAssemblyReference.cache
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\obj\Debug\HelloMovie.Form1.resources
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\obj\Debug\HelloMovie.Properties.Resources.resources
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\obj\Debug\HelloMovie.csproj.GenerateResource.Cache
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\obj\Debug\HelloMovie.exe
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\obj\Debug\HelloMovie.pdb
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MyMovieService.dll
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MyMovieService.pdb
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MovieService.dll
+c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MovieService.pdb
