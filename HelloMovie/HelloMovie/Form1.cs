@@ -59,5 +59,13 @@ namespace HelloMovie
                 txt_name.Focus();
             }
         }
+
+        private void txt_name_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                button1.PerformClick();
+            }
+        }
     }
 }

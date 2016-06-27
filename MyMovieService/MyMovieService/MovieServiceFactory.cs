@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace MyMovieService
 {
-    class MovieServiceFactory
+    public class MovieServiceFactory
     {
         /// <summary> 
         /// use http://www.omdbapi.com REStful Web Service. 
         /// </summary> 
-        public static string OPEN_WEATHER_MAP = "OMDB_API";
+        public static string OMDB_API = "OMDB_API";
  
          /// <summary> 
          /// This method get from the user the web service that he want 
@@ -22,19 +22,11 @@ namespace MyMovieService
          public static Movie getMovieDataService(string str)
          {
             Movie movie = null; 
- 
- 
-             if (str.Equals("OMDB_API"))          
-             {
-                movie = MoviesDataSite.Instance();
-             } 
-             //else if (str.Equals("WORLD_WEATHER_ONLINE"))              
-             //{ 
-             //    wd = WeatherDataSite2.Instance(); 
-             //} 
- 
-
-             return movie;
+            if (str.Equals("OMDB_API"))          
+            {
+            movie = MoviesDataSite.Instance();
+            } 
+            return movie;
          } 
 
     }

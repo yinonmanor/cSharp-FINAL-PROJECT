@@ -114,6 +114,7 @@
             this.txt_name.Name = "txt_name";
             this.txt_name.Size = new System.Drawing.Size(260, 22);
             this.txt_name.TabIndex = 2;
+            this.txt_name.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_name_KeyDown);
             // 
             // label2
             // 
@@ -329,9 +330,8 @@
             this.lbl_year.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_year.Location = new System.Drawing.Point(686, 120);
             this.lbl_year.Name = "lbl_year";
-            this.lbl_year.Size = new System.Drawing.Size(62, 20);
+            this.lbl_year.Size = new System.Drawing.Size(0, 20);
             this.lbl_year.TabIndex = 23;
-            this.lbl_year.Text = "label21";
             // 
             // lbl_runtime
             // 
@@ -339,9 +339,8 @@
             this.lbl_runtime.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_runtime.Location = new System.Drawing.Point(1027, 450);
             this.lbl_runtime.Name = "lbl_runtime";
-            this.lbl_runtime.Size = new System.Drawing.Size(62, 20);
+            this.lbl_runtime.Size = new System.Drawing.Size(0, 20);
             this.lbl_runtime.TabIndex = 24;
-            this.lbl_runtime.Text = "label22";
             // 
             // lbl_writer
             // 
@@ -350,7 +349,6 @@
             this.lbl_writer.Name = "lbl_writer";
             this.lbl_writer.Size = new System.Drawing.Size(756, 45);
             this.lbl_writer.TabIndex = 25;
-            this.lbl_writer.Text = "label23";
             // 
             // lbl_language
             // 
@@ -358,9 +356,8 @@
             this.lbl_language.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_language.Location = new System.Drawing.Point(686, 161);
             this.lbl_language.Name = "lbl_language";
-            this.lbl_language.Size = new System.Drawing.Size(62, 20);
+            this.lbl_language.Size = new System.Drawing.Size(0, 20);
             this.lbl_language.TabIndex = 26;
-            this.lbl_language.Text = "label24";
             // 
             // lbl_imdbvotes
             // 
@@ -368,9 +365,8 @@
             this.lbl_imdbvotes.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_imdbvotes.Location = new System.Drawing.Point(143, 400);
             this.lbl_imdbvotes.Name = "lbl_imdbvotes";
-            this.lbl_imdbvotes.Size = new System.Drawing.Size(62, 20);
+            this.lbl_imdbvotes.Size = new System.Drawing.Size(0, 20);
             this.lbl_imdbvotes.TabIndex = 28;
-            this.lbl_imdbvotes.Text = "label26";
             // 
             // lbl_imdbid
             // 
@@ -378,9 +374,8 @@
             this.lbl_imdbid.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_imdbid.Location = new System.Drawing.Point(686, 344);
             this.lbl_imdbid.Name = "lbl_imdbid";
-            this.lbl_imdbid.Size = new System.Drawing.Size(62, 20);
+            this.lbl_imdbid.Size = new System.Drawing.Size(0, 20);
             this.lbl_imdbid.TabIndex = 29;
-            this.lbl_imdbid.Text = "label27";
             // 
             // lbl_metascore
             // 
@@ -388,9 +383,8 @@
             this.lbl_metascore.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_metascore.Location = new System.Drawing.Point(686, 400);
             this.lbl_metascore.Name = "lbl_metascore";
-            this.lbl_metascore.Size = new System.Drawing.Size(62, 20);
+            this.lbl_metascore.Size = new System.Drawing.Size(0, 20);
             this.lbl_metascore.TabIndex = 30;
-            this.lbl_metascore.Text = "label28";
             // 
             // lbl_country
             // 
@@ -398,9 +392,8 @@
             this.lbl_country.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_country.Location = new System.Drawing.Point(143, 512);
             this.lbl_country.Name = "lbl_country";
-            this.lbl_country.Size = new System.Drawing.Size(62, 20);
+            this.lbl_country.Size = new System.Drawing.Size(0, 20);
             this.lbl_country.TabIndex = 31;
-            this.lbl_country.Text = "label29";
             // 
             // lbl_actors
             // 
@@ -409,7 +402,6 @@
             this.lbl_actors.Name = "lbl_actors";
             this.lbl_actors.Size = new System.Drawing.Size(946, 31);
             this.lbl_actors.TabIndex = 32;
-            this.lbl_actors.Text = "label30";
             // 
             // lbl_genre
             // 
@@ -417,9 +409,8 @@
             this.lbl_genre.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_genre.Location = new System.Drawing.Point(143, 176);
             this.lbl_genre.Name = "lbl_genre";
-            this.lbl_genre.Size = new System.Drawing.Size(62, 20);
+            this.lbl_genre.Size = new System.Drawing.Size(0, 20);
             this.lbl_genre.TabIndex = 33;
-            this.lbl_genre.Text = "label31";
             // 
             // lbl_rated
             // 
@@ -427,9 +418,8 @@
             this.lbl_rated.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_rated.Location = new System.Drawing.Point(1027, 512);
             this.lbl_rated.Name = "lbl_rated";
-            this.lbl_rated.Size = new System.Drawing.Size(62, 20);
+            this.lbl_rated.Size = new System.Drawing.Size(0, 20);
             this.lbl_rated.TabIndex = 34;
-            this.lbl_rated.Text = "label32";
             // 
             // lbl_realesed
             // 
@@ -437,9 +427,8 @@
             this.lbl_realesed.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_realesed.Location = new System.Drawing.Point(686, 512);
             this.lbl_realesed.Name = "lbl_realesed";
-            this.lbl_realesed.Size = new System.Drawing.Size(62, 20);
+            this.lbl_realesed.Size = new System.Drawing.Size(0, 20);
             this.lbl_realesed.TabIndex = 35;
-            this.lbl_realesed.Text = "label33";
             // 
             // lbl_director
             // 
@@ -447,9 +436,8 @@
             this.lbl_director.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_director.Location = new System.Drawing.Point(143, 288);
             this.lbl_director.Name = "lbl_director";
-            this.lbl_director.Size = new System.Drawing.Size(62, 20);
+            this.lbl_director.Size = new System.Drawing.Size(0, 20);
             this.lbl_director.TabIndex = 36;
-            this.lbl_director.Text = "label34";
             // 
             // lbl_plot
             // 
@@ -458,7 +446,6 @@
             this.lbl_plot.Name = "lbl_plot";
             this.lbl_plot.Size = new System.Drawing.Size(946, 53);
             this.lbl_plot.TabIndex = 37;
-            this.lbl_plot.Text = "label35";
             // 
             // lbl_awards
             // 
@@ -466,9 +453,8 @@
             this.lbl_awards.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_awards.Location = new System.Drawing.Point(143, 344);
             this.lbl_awards.Name = "lbl_awards";
-            this.lbl_awards.Size = new System.Drawing.Size(62, 20);
+            this.lbl_awards.Size = new System.Drawing.Size(0, 20);
             this.lbl_awards.TabIndex = 38;
-            this.lbl_awards.Text = "label36";
             // 
             // lbl_rating
             // 
@@ -476,9 +462,8 @@
             this.lbl_rating.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_rating.Location = new System.Drawing.Point(686, 450);
             this.lbl_rating.Name = "lbl_rating";
-            this.lbl_rating.Size = new System.Drawing.Size(62, 20);
+            this.lbl_rating.Size = new System.Drawing.Size(0, 20);
             this.lbl_rating.TabIndex = 39;
-            this.lbl_rating.Text = "label37";
             // 
             // lbl_type
             // 
@@ -486,9 +471,8 @@
             this.lbl_type.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_type.Location = new System.Drawing.Point(143, 456);
             this.lbl_type.Name = "lbl_type";
-            this.lbl_type.Size = new System.Drawing.Size(62, 20);
+            this.lbl_type.Size = new System.Drawing.Size(0, 20);
             this.lbl_type.TabIndex = 40;
-            this.lbl_type.Text = "label38";
             // 
             // lbl_title
             // 
@@ -496,9 +480,8 @@
             this.lbl_title.Font = new System.Drawing.Font("Open Sans Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_title.Location = new System.Drawing.Point(143, 120);
             this.lbl_title.Name = "lbl_title";
-            this.lbl_title.Size = new System.Drawing.Size(62, 20);
+            this.lbl_title.Size = new System.Drawing.Size(0, 20);
             this.lbl_title.TabIndex = 41;
-            this.lbl_title.Text = "label39";
             // 
             // pb_poster
             // 

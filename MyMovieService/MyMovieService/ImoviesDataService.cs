@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyMovieService
 {
-    interface ImoviesDataService
+    public interface ImoviesDataService
     {
         Movie GetMovieData(string movieName);
     }

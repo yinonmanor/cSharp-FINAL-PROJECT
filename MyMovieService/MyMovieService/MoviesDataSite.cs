@@ -29,7 +29,6 @@ namespace MyMovieService
             return moviedata;
         }
 
-
         public Movie GetMovieData(string movieName)
         {
             //MoviesDataSite movie = new MoviesDataSite();
@@ -40,12 +39,12 @@ namespace MyMovieService
             }
             catch (MovieServiceException ex)
             {
-
+                return null;
             }
             return movie;
         }
 
-        private Movie XMLFunction(string movieName)
+        public Movie XMLFunction(string movieName)
         {
             string URLString = "http://www.omdbapi.com/?t=" + movieName.Trim() + "&r=xml";
             string xml;
@@ -64,8 +63,7 @@ namespace MyMovieService
             {
                 MoviesDataSite MyMovie = new MoviesDataSite();
                 XDocument ob = XDocument.Parse(xml);
-                //A linq to xml that get all the values from the site 
-                
+                //A linq to xml that get all the values from the site
                 var movie = from x in ob.Descendants("root")
                             select new
                             {
@@ -118,7 +116,7 @@ namespace MyMovieService
 
             catch (XmlException ex)
             {
-                throw new MovieServiceException("Wrong Country");
+                throw new MovieServiceException("Wrong Movie entered");
             }
             catch (WebException ex)
             {
