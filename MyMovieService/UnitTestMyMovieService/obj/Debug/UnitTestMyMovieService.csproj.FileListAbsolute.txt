@@ -6,3 +6,12 @@ C:\Users\netanels\Documents\Visual Studio 2015\Projects\MyMovieService\UnitTestM
 C:\Users\netanels\Documents\Visual Studio 2015\Projects\MyMovieService\UnitTestMyMovieService\obj\Debug\UnitTestMyMovieService.pdb
 C:\Users\netanels\Documents\Visual Studio 2015\Projects\MyMovieService\UnitTestMyMovieService\bin\Debug\MyMovieService.dll
 C:\Users\netanels\Documents\Visual Studio 2015\Projects\MyMovieService\UnitTestMyMovieService\bin\Debug\MyMovieService.pdb
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\bin\Debug\UnitTestMyMovieService.dll
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\bin\Debug\UnitTestMyMovieService.pdb
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\bin\Debug\MyMovieService.dll
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\bin\Debug\MyMovieService.pdb
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\obj\Debug\UnitTestMyMovieService.csprojResolveAssemblyReference.cache
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\obj\Debug\UnitTestMyMovieService.dll
+C:\Users\Yinon\Desktop\MyMovieService\UnitTestMyMovieService\obj\Debug\UnitTestMyMovieService.pdb

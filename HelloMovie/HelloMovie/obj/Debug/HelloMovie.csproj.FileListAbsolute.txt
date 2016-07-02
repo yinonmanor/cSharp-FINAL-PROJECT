@@ -13,3 +13,16 @@ c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bi
 c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MyMovieService.pdb
 c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MovieService.dll
 c:\users\netanels\documents\visual studio 2015\Projects\HelloMovie\HelloMovie\bin\Debug\MovieService.pdb
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\bin\Debug\HelloMovie.exe.config
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\obj\Debug\HelloMovie.exe
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\obj\Debug\HelloMovie.pdb
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\bin\Debug\HelloMovie.exe
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\bin\Debug\HelloMovie.pdb
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\bin\Debug\MyMovieService.dll
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\bin\Debug\MoviesDB.pdb
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\bin\Debug\MovieService.pdb
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\bin\Debug\MyMovieService.pdb
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\obj\Debug\HelloMovie.csprojResolveAssemblyReference.cache
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\obj\Debug\HelloMovie.Form1.resources
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\obj\Debug\HelloMovie.Properties.Resources.resources
+C:\Users\Yinon\Desktop\HelloMovie\HelloMovie\obj\Debug\HelloMovie.csproj.GenerateResource.Cache

@@ -2,3 +2,8 @@ c:\users\netanels\documents\visual studio 2015\Projects\MyMovieService\MyMovieSe
 c:\users\netanels\documents\visual studio 2015\Projects\MyMovieService\MyMovieService\bin\Debug\MyMovieService.pdb
 c:\users\netanels\documents\visual studio 2015\Projects\MyMovieService\MyMovieService\obj\Debug\MyMovieService.dll
 c:\users\netanels\documents\visual studio 2015\Projects\MyMovieService\MyMovieService\obj\Debug\MyMovieService.pdb
+C:\Users\Yinon\Desktop\MyMovieService\MyMovieService\bin\Debug\MyMovieService.dll
+C:\Users\Yinon\Desktop\MyMovieService\MyMovieService\bin\Debug\MyMovieService.pdb
+C:\Users\Yinon\Desktop\MyMovieService\MyMovieService\obj\Debug\MyMovieService.csprojResolveAssemblyReference.cache
+C:\Users\Yinon\Desktop\MyMovieService\MyMovieService\obj\Debug\MyMovieService.dll
+C:\Users\Yinon\Desktop\MyMovieService\MyMovieService\obj\Debug\MyMovieService.pdb
