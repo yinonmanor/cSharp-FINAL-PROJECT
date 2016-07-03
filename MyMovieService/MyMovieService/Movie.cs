@@ -89,7 +89,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets rated
+        /// Gets and Sets Released
         /// </summary>
         public string Released
         {
@@ -134,7 +134,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets genre
+        /// Gets and Sets Director
         /// </summary>
         public string Director
         {
@@ -164,7 +164,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets writer
+        /// Gets and Sets Actors
         /// </summary>
         public string Actors
         {
@@ -224,7 +224,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets country
+        /// Gets and Sets Awards
         /// </summary>
         public string Awards
         {
@@ -254,7 +254,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets poster
+        /// Gets and Sets Metascore
         /// </summary>
         public int Metascore
         {
@@ -269,7 +269,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets poster
+        /// Gets and Sets ImdbRating
         /// </summary>
         public double ImdbRating
         {
@@ -284,7 +284,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets poster
+        /// Gets and Sets ImdbVotes
         /// </summary>
         public string ImdbVotes
         {
@@ -299,7 +299,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets poster
+        /// Gets and Sets ImdbID
         /// </summary>
         public string ImdbID
         {
@@ -314,7 +314,7 @@ namespace MyMovieService
         }
         //=====================================================================
         /// <summary>
-        /// Gets and Sets poster
+        /// Gets and Sets Type
         /// </summary>
         public string Type
         {

@@ -8,10 +8,6 @@ namespace MyMovieService
 {
     class MovieServiceException : ApplicationException
     {
-        /// <summary> 
-        /// A constructor that get a message from throw an exception.  
-        /// </summary> 
-        /// <param name="message">Describes the message of the exception</param> 
         public MovieServiceException(String message) : base(message) 
         { 
               

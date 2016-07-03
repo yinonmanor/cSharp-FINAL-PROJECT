@@ -87,8 +87,7 @@ namespace MyMovieService
                                 imdbID = x.Descendants("movie").Attributes("imdbID").First().Value,
                                 type = x.Descendants("movie").Attributes("type").First().Value,
                             };
-                //Get all the values from the linq vairables and set  
-                //them into the WeatherData service values. 
+                
                 foreach (var data in movie)
                 {
                     MyMovie.Title= data.title;
